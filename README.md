@@ -3,7 +3,7 @@
 this is a repository wherin i will link all of my work done over the summer<br>
 i aim to do a multitude of projects, listed below with links when done<br>
 <br>
-rust tui password manager with encryption and customizable password generation<br><br>
+[rust tui password manager with encryption and customizable password generation](https://github.com/crypticC0der/passman)<br><br>
 opengl based collision system, obviously c++, particles at the least, maybe strings too<br><br>
 pendulum simulation is c++ with open gl, possible in the collision system<br><br>
 doom like game where the maps are stored as vectors, either unity or opengl<br><br>

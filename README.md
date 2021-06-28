@@ -11,5 +11,5 @@ online chat client with end to end encryption, profile pictures and coloured nam
 app to rate cats, similar to various upvote based sites, idk how i plan on doing this<br><br>
 [GMTK game jam 2021 with Seven](https://github.com/crypticC0der/OppositeAttraction)<br><br>
 sodoku generator/solver not sure what language to do this in, possible javascript<br><br>
-opengl based fractal rendering with zooming<br><br>
+[opengl based fractal rendering](https://github.com/crypticC0der/Fractal)<br><br>
 [3d game where you use a grappling hook to traverse](https://github.com/crypticC0der/HookShot3D)

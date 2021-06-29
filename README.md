@@ -4,7 +4,7 @@ this is a repository wherin i will link all of my work done over the summer<br>
 i aim to do a multitude of projects, listed below with links when done<br>
 <br>
 [rust tui password manager with encryption and customizable password generation](https://github.com/crypticC0der/passman)<br><br>
-opengl based collision system, obviously c++, particles at the least, maybe strings too<br><br>
+[opengl based collision system, obviously c++, particles at the least, maybe strings too](https://github.com/crypticC0der/collisionSystem)<br><br>
   circles, maybe squares too
 pendulum simulation is c++ with open gl, possible in the collision system<br><br>
 online chat client with end to end encryption, profile pictures and coloured names, need to find out how to do public/private key shit<br><br>

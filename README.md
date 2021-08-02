@@ -12,4 +12,5 @@ app to rate cats, similar to various upvote based sites, idk how i plan on doing
 doom like game where the maps are stored as vectors, prolly in unity<br><br>
 [GMTK game jam 2021 with Seven](https://github.com/crypticC0der/OppositeAttraction)<br><br>
 [opengl based fractal rendering](https://github.com/crypticC0der/Fractal)<br><br>
-[3d game where you use a grappling hook to traverse](https://github.com/crypticC0der/HookShot3D)
+[3d game where you use a grappling hook to traverse](https://github.com/crypticC0der/HookShot3D)<br><br>
+a bonsai tree simulator, either opengl or tui<br><br>

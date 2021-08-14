@@ -14,7 +14,7 @@ doom like game where the maps are stored as vectors, prolly in unity<br><br>
 [opengl based fractal rendering](https://github.com/crypticC0der/Fractal)<br><br>
 [3d game where you use a grappling hook to traverse](https://github.com/crypticC0der/HookShot3D)<br><br>
 a bonsai tree simulator, either opengl or tui<br><br>
-google dinosaur based game but with tons of cool fetures
+[google dinosaur based game but with tons of cool fetures](github.com/crypticC0der/Stickrun.git)
  - easy mode - unity<br>
  - normal mode - tui <br>
- - hard mode - opengl <br><br>
+ - [hard mode - opengl](github.com/crypticC0der/Stickrun.git) <br><br>

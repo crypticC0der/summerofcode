@@ -17,5 +17,6 @@ a bonsai tree simulator, either opengl or tui<br><br>
 [google dinosaur based game but with tons of cool fetures](https://github.com/crypticC0der/Stickrun)
  - easy mode - unity<br>
  - normal mode - tui <br>
- - [hard mode - opengl](https://github.com/crypticC0der/Stickrun) <br><br>
+ - [hard mode - opengl](https://github.com/crypticC0der/Stickrun) <br>
+<br>
 DnD simulator, the game youve always wanted to code

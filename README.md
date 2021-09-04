@@ -13,7 +13,7 @@ doom like game where the maps are stored as vectors, prolly in unity<br><br>
 [GMTK game jam 2021 with Seven](https://github.com/crypticC0der/OppositeAttraction)<br><br>
 [opengl based fractal rendering](https://github.com/crypticC0der/Fractal)<br><br>
 [3d game where you use a grappling hook to traverse](https://github.com/crypticC0der/HookShot3D)<br><br>
-a bonsai tree simulator, either opengl or tui<br>
+a bonsai tree simulator, either opengl or tui<br><br>
 
 [google dinosaur based game but with tons of cool fetures](https://github.com/crypticC0der/Stickrun)
  - easy mode - unity<br>

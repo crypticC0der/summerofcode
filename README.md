@@ -23,5 +23,5 @@ a bonsai tree simulator, either opengl or tui<br><br>
 
 DnD simulator, the game youve always wanted to code<br><br>
 Quiplash/cards against humanity game - java<br><br>
-[ant colony simulation in c++](https::/github.com/crypticC0der/antsim)
+[ant colony simulation in c++](https://github.com/crypticC0der/antsim)<br><br>
 [naughts and crosses algorithm written in c++](https://github.com/crypticC0der/naughts-n-crosses)

@@ -3,6 +3,8 @@
 this is a repository wherin i will link all of my work done over the summer<br>
 i aim to do a multitude of projects, listed below with links when done<br>
 <br>
+[lol](https://bbc.co.uk)<br><br>
+
 [rust tui password manager with encryption and customizable password generation](https://github.com/crypticC0der/passman)<br><br>
 [opengl based collision system, obviously c++, particles at the least, maybe strings too](https://github.com/crypticC0der/collisionSystem)<br><br>
 [pendulum simulation in c++ with open gl, works in the collision system](https://github.com/crypticC0der/collisionSystem)<br><br>
@@ -21,4 +23,3 @@ a bonsai tree simulator, either opengl or tui<br><br>
 <br>
 DnD simulator, the game youve always wanted to code<br><br>
 Quiplash/cards against humanity game - java<br><br>
-[lol](https://bbc.co.uk)<br><br>

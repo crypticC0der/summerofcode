@@ -21,4 +21,4 @@ a bonsai tree simulator, either opengl or tui<br><br>
 <br>
 DnD simulator, the game youve always wanted to code<br><br>
 Quiplash/cards against humanity game - java<br>
-[naughts and crosses algorithm in cpp](https://github.com/crypticC0der/naughts-n-crosses)<br>
+[naughts and crosses algorithm in cpp](https://github.com/crypticC0der/naughts-n-crosses) <br>
